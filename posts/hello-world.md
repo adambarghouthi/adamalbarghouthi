@@ -1,6 +1,6 @@
 ---
 title: 'Hello World'
-date: '28/07/2020'
+date: '2020-09-01'
 lang: 'en'
 ---
 
