@@ -30,3 +30,9 @@ Truth hides in darkness when defamed. Truth comes to the light when fostered. Th
 Therefore truth is dependent on the environment that we as human beings build for ourselves. If the environment harbors tools that can be used to obscure truth from the pursuer, it always leads to exploitation.
 
 To exploit one is to conceal the truth from one. The concealment of truth becomes easy once you have control over or access to one's mind. You can mend it, condition it, and mould it into what you wish it to be. And technology has made that easier for you and me. The question is, who will be the rotten apple? Because there's always one to spoil the bunch.
+
+Today exploitation runs rampant in the foundations of our environment and that's why we seem to be in eternal conflict. We can't find common ground. We're the left and they're the right, the black and the white, the right and the wrong, but when are we to converge on one path to the light?
+
+There's no progress if there is no agreement. And there is no agreeement to be had if there's no platform for it to sit on. Our environment today is made for partisanship to divide us rather than to be absolute one. But being a single unit is a true representation and the only representation of the truth's absoluteness. And that's the true environment that fosters truth.
+
+The longer it takes for us to find common ground, the longer the exploiter maintains and grows their interests.
