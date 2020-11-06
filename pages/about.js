@@ -23,16 +23,16 @@ export default function About() {
           </li>
         </ul>
       </section>
-      <section className={utilStyles.textRight}>
+      <section dir="RTL" className={utilStyles.textRight}>
         القليل عني:
         <ul>
-          <li>
+          <li className={utilStyles.textRight}>
             أصلي فلسطيني 🇵🇸
           </li>
-          <li>
+          <li className={utilStyles.textRight}>
             أبرمج بلغة الJS 💻
           </li>
-          <li>
+          <li className={utilStyles.textRight}>
             أكتب الشعر باللغتين الإنجليزية والعربية ✒️
           </li>
         </ul>
