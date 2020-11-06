@@ -10,7 +10,32 @@ export default function About() {
         <title>About - Adam Albarghouthi</title>
       </Head>
       <section>
-        My name is Adam Albarghouthi.
+        A little about me:
+        <ul>
+          <li>
+            Hails from Palestine 🇵🇸
+          </li>
+          <li>
+            Codes in JS
+          </li>
+          <li>
+            Writes poetry in English & Arabic
+          </li>
+        </ul>
+      </section>
+      <section className={utilStyles.textRight}>
+        القليل عني:
+        <ul>
+          <li>
+            أصلي فلسطيني 🇵🇸
+          </li>
+          <li>
+            أبرمج بلغة الJS 💻
+          </li>
+          <li>
+            أكتب الشعر باللغتين الإنجليزية والعربية ✒️
+          </li>
+        </ul>
       </section>
     </Layout>
   )
