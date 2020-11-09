@@ -16,10 +16,10 @@ export default function About() {
             Hails from Palestine 🇵🇸
           </li>
           <li>
-            Codes in JS
+            Codes in JS 💻
           </li>
           <li>
-            Writes poetry in English & Arabic
+            Writes poetry in English & Arabic ✒️
           </li>
         </ul>
       </section>
